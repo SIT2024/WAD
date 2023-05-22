@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Aniket's personal </title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  
+  <body>
+    <div class  = "intro">
+     <table>
+      <tr>
+        <td>
+          <img src="boy.png" alt="avatar">
+        </td>
+        <td>
+          <h1 style="color: gray;">About me</h1> 
+          <h2>Aniket Joshi</h2>
+          <h3  style="color: brown;"> A Student at SIT Lonavala</h3>
+          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos repellat quis error? Perspiciatis perferendis sunt eveniet placeat repudiandae, aliquam sit ratione fugiat beatae nesciunt dolorum, aspernatur incidunt! Sint, officia mollitia.</p>
+        </td>
+      </tr>
+      <table>
+        <tr>
+          <td>
+            <h3 id="indent"><u>Personal Info:</u></h3>
+            <ul>
+              <li><b>Birthday</b> : 26/07/2002</li> 
+              <li><b>Residense : </b>Latur</li>
+              <li><b>Email :</b>Lorem@gmail.com</li>
+            </ul>
+          </td>
+         <td>
+            <h3 id="indent"> <u>Education:</u></h3>
+            <ul>
+              <li><b>BE :</b>SIT Lonavala</li>
+              <li><b>HSC :</b>Dayanand College latur</li>
+              <li><b>SSC :</b>Deshikendra Vidyalaya</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+     </table>
+   </div>
+  </body>
+</html>
+
+
+****************************************************CSS*******************************************************************
+
+
+
+body{
+  background-color: darkgrey;
+}
+
+.intro{
+  background-color:lightblue;
+  border: 5px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+}
+
+#indent{
+  margin-left: 70px;
+}
+
+p, h2, h3, h1, ul, li{
+  margin :  20px 20px;
+}
+
+img{
+  margin: 40px;
+  height: 190px;
+  width: 190px;
+}
+
+
