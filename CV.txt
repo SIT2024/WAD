@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Aniket's personal </title>
+    <title>XYZ's personal </title>
     <link rel="stylesheet" href="styles.css">
   </head>
   
@@ -11,12 +11,12 @@
      <table>
       <tr>
         <td>
-          <img src="boy.png" alt="avatar">
+          <img src="#" alt="profile">
         </td>
         <td>
           <h1 style="color: gray;">About me</h1> 
-          <h2>Aniket Joshi</h2>
-          <h3  style="color: brown;"> A Student at SIT Lonavala</h3>
+          <h2>XYZ Person</h2>
+          <h3  style="color: brown;"> A Student at XYZ college</h3>
           <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos repellat quis error? Perspiciatis perferendis sunt eveniet placeat repudiandae, aliquam sit ratione fugiat beatae nesciunt dolorum, aspernatur incidunt! Sint, officia mollitia.</p>
         </td>
       </tr>
@@ -25,17 +25,17 @@
           <td>
             <h3 id="indent"><u>Personal Info:</u></h3>
             <ul>
-              <li><b>Birthday</b> : 26/07/2002</li> 
-              <li><b>Residense : </b>Latur</li>
+              <li><b>Birthday</b> : 00/00/0000</li> 
+              <li><b>Residense : </b>XYZ</li>
               <li><b>Email :</b>Lorem@gmail.com</li>
             </ul>
           </td>
          <td>
             <h3 id="indent"> <u>Education:</u></h3>
             <ul>
-              <li><b>BE :</b>SIT Lonavala</li>
-              <li><b>HSC :</b>Dayanand College latur</li>
-              <li><b>SSC :</b>Deshikendra Vidyalaya</li>
+              <li><b>BE :</b>XYZ college</li>
+              <li><b>HSC :</b>XYZ Junior College</li>
+              <li><b>SSC :</b>XYZ school</li>
             </ul>
           </td>
         </tr>
